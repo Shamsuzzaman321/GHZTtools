@@ -1,0 +1,106 @@
+==========================================
+GHZ Tools v0.6 build 9645 (02/09/2014)
+==========================================
+Brute Forcer:
+[+] Added Kleeja Bruter
+[+] Added OpenCart Bruter
+[+] Added WP Xmlpc Bruter
+[x] Fixed SSH Problem
+------------------------------------------
+Remote Exploits:
+[x] Fixed JCE Problem 
+[x] Fixed Changing SHell Name
+------------------------------------------
+SQL Injector:
+[+] Added Auto SQL Injector
+------------------------------------------
+Hash Cracker:
+[x] Fixed Length str Problem 
+[x] Fixed MSG "Invalid pointer operation" Problem 
+------------------------------------------
+Web Scanner:
+[x] Fixed URL Crawler
+[+] Added Web Extractor
+[-] Remove FLI Server Scaner
+[+] Added SQLi Scanner
+------------------------------------------
+[+] Added Keyboard
+[-] Remove Button Donate
+==========================================
+GHZ Tools v0.5 build 18039 (31/05/2014)
+==========================================
+[+] Added Skin Form
+[+] Add Button Donate
+
+Remote Exploits:
+[x] Fixed Crash JCE
+
+Hash Cracker:
+[x] Fixed problem Cracker MD5
+[+] Added Timeout with cracker online
+
+Web Scanner:
+[x] Fixed problem Break Open Port Scanner
+[+] Added URL Crawler
+==========================================
+GHZ Tools v0.4 build 31690 (27/02/2014)
+==========================================
+[+] Added Auto Updates.
+[x] Fixed problem Lib cl32.dll
+[x] BegFix Freezing 
+[x] Changed About
+[x] Changed Color Panel
+
+Brute Forcer:
+[+] Added Support for Authentication with bruteforce
+[+] Added Brute Force Authentication
+[+] Added Brute Force vBulletin
+
+Hash Cracker:
+[+] Added support for MD2/MD4
+==========================================
+GHZ Tools v0.3 build 37271 (20/02/2014)
+==========================================
+[+] Added support for HTTPS protocol
+------------------------------------------
+Brute Forcer:
+[+] Added Brute Force DirectAdmin
+[+] Added Authentication Bypass
+[+] Added Brute Force SSH
+[+] Added feature to use Proxy
+[+] Added property ó Auto Admin Path
+------------------------------------------
+Web Scanner:
+[+] Added Scan Open Port
+==========================================
+GHZ Tools v0.2 build 19 (15/02/2014)
+==========================================
+Brute Forcer:
+[x] Skip the banned in Whmcs
+------------------------------------------
+Web Scanner:
+[+] Added Scan LFI
+==========================================
+GHZ Tools v0.1 Beta (Limited) (22/01/2014)
+==========================================
+Brute Forcer:
+[+] Brute Force WordPress
+[+] Brute Force Joomla
+[+] Brute Force 4images
+[+] Brute Force osCommerce
+[+] Brute Force Drupal
+[+] Brute Force Razor
+[+] Brute Force Ftp
+[+] Brute Force cPanel
+[+] Brute Force Whmcs
+------------------------------------------
+Remote Exploits:
+[+] Webdav Remote Authentication Bypass
+[+] JCE Joomla Extension
+------------------------------------------
+Hash Cracker:
+[+] Hash Cracker v0.2
+------------------------------------------
+URL Fuzzer:
+[+] URL Fuzzer v0.1
+==========================================
